@@ -182,8 +182,6 @@ pyrightconfig.json
 # checkpoints
 *.h5
 
-Data
-MeshData
 
 *pdf
 
